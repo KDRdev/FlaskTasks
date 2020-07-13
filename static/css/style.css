@@ -1,0 +1,6 @@
+.task-list{
+    margin: 30px auto;
+}
+.task-list th{
+    min-width: 300px;
+}
