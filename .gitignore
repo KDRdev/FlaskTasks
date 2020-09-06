@@ -144,5 +144,9 @@ dmypy.json
 
 # macOS files
 .DS_Store
+*/.DS_Store
+
+# VSCode files
+.vscode/
 
 # End of https://www.toptal.com/developers/gitignore/api/flask
